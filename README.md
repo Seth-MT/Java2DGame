@@ -4,10 +4,10 @@ A small game using Java toolkits: awt and swing
 The game is executed by running the GameApplication.java file.
 
 Use the arrow keys to move the object around the game screen.
-LEFT - move left
-UP - move up
-RIGHT - move right
-DOWN - move down
+- LEFT - move left
+- UP - move up
+- RIGHT - move right
+- DOWN - move down
 
 ## Instructions & Goal
 The player moves the red square to collect the blue circle that spawns upon selecting Start Game. Collect as many as possible to increase the points.
